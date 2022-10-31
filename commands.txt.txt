@@ -2,3 +2,21 @@ git init --> initializing the git in pwd
 git add -a --> adding ll changes to staging area
 git commit -m "message"--> adding staging area to local repository
 git push --> add local repository to remote repository
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+dvfyvsdcudygfouergshdcuyuhWIBLhbjh
+fdafvfvfhfdoyusdvbilhabe
+sfdhboyfgdisbvhjb;HFewugfouvkxnzc;dsh
